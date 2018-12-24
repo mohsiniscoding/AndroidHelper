@@ -1,4 +1,4 @@
-package net.zahrauniversity.zahrauniversity.App;
+
 
 import android.content.ContentUris;
 import android.content.Context;
